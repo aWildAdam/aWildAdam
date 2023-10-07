@@ -1,7 +1,5 @@
 Hello! I'm Adam.
-Co-developer of Sence.
+Co-developer of https://sence.club.
 Sometimes an interesting guy. Not always though, depends on who you ask.
 Currently working on:
-Sence
-
-CS course(s)
+https://sence.club and my CS course(s)
